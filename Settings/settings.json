@@ -1,0 +1,7 @@
+﻿{
+  "Command": "!so",
+  "Permission": "moderator",
+  "Info": "",
+  "Cooldown": 1,
+  "Response": "Pong!"
+}
